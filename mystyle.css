@@ -23,8 +23,8 @@ body{
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(325px, 40fr));
-    grid-gap: 10px;
-    padding: 10px;
+    grid-gap: 30px;
+    padding: 50px;
     box-sizing: border-box;
     
 }
@@ -33,7 +33,7 @@ body{
     width: auto;
     position: relative ;
     background: rgb(248, 196, 99);
-    padding: 20px 40px 40px;
+    padding: 20px 60px 40px;
     text-align: center;
     overflow: hidden;
     border-radius: 20px;
