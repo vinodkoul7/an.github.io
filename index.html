@@ -37,24 +37,13 @@
           <input type="search" class="form-control rounded" placeholder="Search by Website Name" aria-label="Search"
             aria-describedby="search-addon" id="weblink" list="weblist" autocomplete="off" />
           <datalist id="weblist">
-          <option value="nothing" selected="selected"> Weblinks</option>
           <option value="https://www.amazon.com"> Amazon </option>
           <option>Sharepoint - https://XX.XXX.XX.XX</option>
           <option>LinkedIn - https://XX.XXX.XX.XX</option>
         </datalist>
         </div>
       </div>
-      <script type ="text/javascript">
-        var links = document.getElementById('weblist');
-        links.onchange = function () {
-          var userlink = this.options [this.selectedIndex];
-          if (userOption.value != "nothing") {
-            window.open(userOption.value, "weblist", "");
-          }
-        }
-         
-      </script>
-      
+            
       <br>
 
       <div class="box2">
