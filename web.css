@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 
-body{
+body {
     margin: 0;
     padding: 0;
-    background-color: rgb(250, 246, 246);
+    background-image: url('img/oy_bkg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    color: rgb(13, 13, 14);
     
 }
 
