@@ -6,7 +6,6 @@ body{
         margin: 0;
         padding: 0;
         background-image: url('img/oy_bkg.jpg');
-        /* background-image: url('./img/oy_bkg.jpg'); */
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
