@@ -11,6 +11,19 @@ body {
     
 }
 
+.navbar-brand {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 25px;
+}
+
+.table table-dark table-striped {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 25px;
+}
+
+
+
+
 h3 {
     text-align: center;
     padding: 15px;
