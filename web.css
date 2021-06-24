@@ -35,35 +35,9 @@ h3 {
 }
 
 
-.col {
-    margin:20px;
-
+.table table-dark table-striped scope[col] {
+    font-family: 'Fjalla One', sans-serif;
+    color: blue;
 
 }
 
-
-
-.footer {
-  
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color:rgb(14, 14, 15);
-    color: rgb(228, 231, 26);
-    text-align: center;
-    opacity: 0.55;
-    
- }
-
- .footer p{
-     margin: 5px;
-     font-family: 'Fjalla One', sans-serif;
-     position: right;
- }
-
- .footer a[href] {
-    text-decoration: none !important;
-    color: rgb(241, 227, 21);
-    font-family: 'Fjalla One', sans-serif;
- }
