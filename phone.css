@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('img/bg3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.navbar-brand {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 25px;
+    color: chartreuse;
+}
+
+h3 span {
+    font-size: 22px;
+}
+h3 input.search-input {
+    width: 700px;
+    margin-left: auto;
+    float: CENTER;
+}
+.mt32 {
+    margin-top: 32px;
+}
