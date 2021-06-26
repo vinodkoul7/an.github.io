@@ -2,12 +2,13 @@
 
 
 body {
-    margin: 0;
-    padding: 0;
-    background-image: url('img/bg3.jpg');
+    /* margin: 0;
+    padding: 0; */
+    background-image: url('img/bg10.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+
     
 }
 
@@ -19,12 +20,52 @@ body {
 
 h3 span {
     font-size: 22px;
+    font-family: 'Fjalla One', sans-serif;
+    color: rgb(8, 8, 8);
 }
 h3 input.search-input {
-    width: 700px;
+    width: 900px;
+    height: auto;
     margin-left: auto;
-    float: CENTER;
+    float: Right;
 }
 .mt32 {
     margin-top: 32px;
 }
+
+
+.table th {
+    color: rgb(3, 3, 3);
+
+}
+
+.table td {
+    color: rgb(7, 7, 7);
+
+}
+
+
+.footer {
+  
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(14, 14, 15);
+    color: rgb(228, 231, 26);
+    text-align: center;
+    opacity: 0.55;
+    
+ }
+
+ .footer p{
+     margin: 5px;
+     font-family: 'Fjalla One', sans-serif;
+     position: right;
+ }
+
+ .footer a[href] {
+    text-decoration: none !important;
+    color: rgb(241, 227, 21);
+    font-family: 'Fjalla One', sans-serif;
+ }
