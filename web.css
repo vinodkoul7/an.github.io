@@ -4,7 +4,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('img/bg5.jpg');
+    background-image: url('img/bg10.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -56,5 +56,5 @@ h3 input.search-input {
 }
 
 .table td {
-    color: rgb(250, 249, 253);
+    color: rgb(7, 7, 7);
 }
