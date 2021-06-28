@@ -30,10 +30,11 @@ body{
 }
 
 .container .box1 {
-    width: auto;
-    position: relative ;
+    width: 450px;
+    margin: -120px, 20px, 20px, 20px;
+    position: relevant;
     background: rgb(248, 196, 99);
-    padding: 20px 60px 40px;
+    padding: 60px;
     text-align: center;
     overflow: hidden;
     border-radius: 20px;
@@ -42,7 +43,9 @@ body{
 }
 
 .container .box2 {
-    position: relative ;
+    width: 480px;
+    margin: -390px, 20px, 20px, 20px;
+    position: -180px ;
     background: rgb(57, 173, 250);
     padding: 20px 40px 40px;
     text-align: center;
@@ -53,9 +56,11 @@ body{
 }
 
 .container .box3 {
-    position: relative ;
+    width: 550px;
+    margin: 150px, 30px, 30px, 30px;
+    position: 280px ;
     background: rgb(172, 241, 92);
-    padding: 20px 40px 40px;
+    padding: 80px 40px 40px;
     text-align: center;
     overflow: hidden;
     border-radius: 20px;
@@ -63,14 +68,6 @@ body{
     opacity: 0.9;
 }
 
-.container .box4 {
-    position: relative ;
-    background: wheat;
-    padding: 20px 40px 40px;
-    text-align: center;
-    overflow: hidden;
-    border-radius: 20px;
-}
 
 .container .box1:nth-child(Weblink){
     background: linear-gradient(45deg,#036eb7,#64eaff);
